@@ -1,5 +1,5 @@
 # InjetorSQL
-# Data Injector para PostgreSQL
+# Injetor de dados para PostgreSQL
 
 Este projeto é um injetor de dados aleatórios em um banco de dados PostgreSQL. Ele gera dados fictícios para tabelas de `Customers`, `Products`, e `Orders`, útil para ambientes de desenvolvimento e testes. Dados aleatórios são gerados utilizando a biblioteca [Faker](https://faker.readthedocs.io/), enquanto as variáveis de ambiente e a conexão com o banco são configuradas com [dotenv](https://pypi.org/project/python-dotenv/).
 
